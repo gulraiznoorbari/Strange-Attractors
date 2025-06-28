@@ -8,7 +8,7 @@ Strange Attractors can have fractal geometry (self-similar patterns at different
 
 Strange attractors have been studied in various fields, including physics, mathematics, biology, and economics. They provide insights into the behavior of complex systems, where small changes in initial conditions can lead to drastically different outcomes over time.
 
-One of the most common examples of a Strange Attractor is the Lorenz Attractor, named after the mathematician and meteorologist Edward Lorenz. The Lorenz Attractor is a simplified set of equations describing the weather/atmospheric patterns. It forms a butterfly-shaped pattern in its state space trajectory. This is often called the "butterfly effect" — the idea that a butterfly flapping its wings can eventually influence a tornado weeks later.
+One of the most common examples of a Strange Attractor is the Lorenz Attractor, named after the mathematician and meteorologist Edward Lorenz. The Lorenz Attractor is a simplified set of equations describing the weather/atmospheric patterns. It forms a butterfly-shaped pattern in its state space trajectory. This is infamously referred to as the "Butterfly Effect" — the idea that a butterfly flapping its wings can eventually influence a tornado weeks later.
 
 ## How to Run?
 - Install Python on your system. ([Visit this Link](https://www.python.org/))
