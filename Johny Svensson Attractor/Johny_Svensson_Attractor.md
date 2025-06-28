@@ -22,7 +22,7 @@ The Johny Svensson Attractor is a chaotic attractor that is defined by the follo
 
 ## Output
 
-After 100,000 iterations, the following image is generated:
+After 100,000 iterations, the following attractor is generated:
 
 <img src="https://github.com/user-attachments/assets/fe12ffa8-4174-4d72-8bd6-9e728ebc9ff3" alt="Johny Svensson Attractor" width="1440"/>
 
