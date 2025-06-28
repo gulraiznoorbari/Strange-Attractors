@@ -10,7 +10,6 @@ The Johny Svensson Attractor is a chaotic attractor that is defined by the follo
 <br/>
 <br/>
 ``` y = c * cos(x * a) + cos(y * b) ```
-<br/>
 
 ## Parameters
 
@@ -25,7 +24,5 @@ The Johny Svensson Attractor is a chaotic attractor that is defined by the follo
 
 After 100,000 iterations, the following image is generated:
 
-<img src="" alt="Johny Svensson Attractor" width="1440"/>
-
-
+<img src="https://github.com/user-attachments/assets/fe12ffa8-4174-4d72-8bd6-9e728ebc9ff3" alt="Johny Svensson Attractor" width="1440"/>
 
