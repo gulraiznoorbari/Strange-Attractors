@@ -15,8 +15,6 @@ One of the most common examples of a Strange Attractor is the Lorenz Attractor, 
 - Install pip python package installer ([Click here](https://pip.pypa.io/en/stable/))
 - Install numpy and matplotlib by entering the following commands in your terminal:
   
-  <br/>
-  
 ```bash
 pip install numpy
 ```
