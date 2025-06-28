@@ -23,6 +23,6 @@ The Lorenz Attractor is a chaotic attractor that is defined by the following sys
 
 ## Output
 
-After 100,000 iterations, the following image is generated:
+After 100,000 iterations, the following attractor is generated:
 <img src="https://github.com/user-attachments/assets/06a4daa4-1bbc-4a40-816b-8cfb7b1aad52" alt="Lorenz Attractor" width="1440"/>
 
